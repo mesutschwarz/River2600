@@ -1,0 +1,35 @@
+;!FILE build/main.asm
+XL4
+H 9 areas E global symbols
+M main
+S .__.ABS. Def00000000
+S _printf Ref00000000
+A _CODE size 15 flags 0 addr 0
+S _main Def00000000
+S XG$main$0$0 Def00000008
+S A$main$55 Def00000000
+S A$main$56 Def00000003
+S A$main$66 Def00000008
+S A$main$57 Def00000004
+S A$main$58 Def00000007
+S Fmain$__str_0$0_0$0 Def00000009
+S C$main.c$3$0_0$8 Def00000000
+S C$main.c$5$1_0$8 Def00000000
+S C$main.c$6$1_0$8 Def00000008
+S G$main$0$0 Def00000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00 00
+R 00 00 00 00
+T 00 00 00 00 11 09 00 D5 CD 00 00 E1 C9
+R 00 00 00 00 00 05 00 00 02 09 01 00
+T 09 00 00 00
+R 00 00 00 00
+T 09 00 00 00 48 65 6C 6C 6F 20 57 6F 72 6C 64 00
+R 00 00 00 00

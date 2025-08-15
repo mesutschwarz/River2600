@@ -1,0 +1,13 @@
+M:main
+F:G$main$0_0$0({2}DF,SV:S),C,0,0,0,0,0
+S:Lmain.main$voi$1_0$7({2}SI:S),R,0,0,[]
+T:Fmain$__00000000[({0}S:S$l$0_0$0({1}SC:U),Z,0,0)({1}S:S$h$0_0$0({1}SC:U),Z,0,0)]
+T:Fmain$__00000001[({0}S:S$l$0_0$0({1}SC:U),Z,0,0)({1}S:S$h$0_0$0({1}SC:U),Z,0,0)]
+T:Fmain$_fixed[({0}S:S$l$0_0$0({1}SC:U),Z,0,0)({1}S:S$h$0_0$0({1}SC:U),Z,0,0)({0}S:S$b$0_0$0({2}ST__00000001:S),Z,0,0)({0}S:S$w$0_0$0({2}SI:U),Z,0,0)]
+S:G$putchar$0_0$0({2}DF,SV:S),C,0,0
+S:G$printf$0_0$0({2}DF,SV:S),C,0,0
+S:G$sprintf$0_0$0({2}DF,SV:S),C,0,0
+S:G$puts$0_0$0({2}DF,SV:S),C,0,0
+S:G$gets$0_0$0({2}DF,DG,SC:S),C,0,0
+S:G$getchar$0_0$0({2}DF,SC:S),C,0,0
+S:G$main$0_0$0({2}DF,SV:S),C,0,0

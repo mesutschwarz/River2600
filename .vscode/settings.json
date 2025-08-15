@@ -1,0 +1,9 @@
+{
+    "emulicious-debugger.emuliciousPath": "/Applications/Emulicious",
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "game_background.h": "c",
+        "sprites.h": "c"
+    }
+}
